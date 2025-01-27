@@ -1,0 +1,1 @@
+Chama alarm_callback com temporização de 5000 ms.
