@@ -1,1 +1,1 @@
-Chama alarm_callback com temporização de 5000 ms.
+Chama alarm_callback com temporização do microcontrolador rp2040.
